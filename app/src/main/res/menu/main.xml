@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homscreen"
+        android:title="Home"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/search"
+        android:title="search"
+        android:orderInCategory="100"
+        android:icon="@mipmap/search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/r_reload"
+        android:title="reload"
+        android:orderInCategory="100"
+        android:icon="@drawable/quantum_ic_refresh_white_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/downloads"
+        android:orderInCategory="100"
+        android:title="Downloads"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rateus"
+        android:orderInCategory="100"
+        android:title="Rate US"
+        app:showAsAction="never" />
+
+</menu>

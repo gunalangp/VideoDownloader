@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textSize">25dp</dimen>
+    <dimen name="textSizeSmall">18dp</dimen>
+    <dimen name="textSizeNormal">32dp</dimen>
+    <dimen name="textSizeLarge">40dp</dimen>
+    <dimen name="buttonHeight">75dp</dimen>
+    <dimen name="buttonHeightMedium">65dp</dimen>
+    <dimen name="buttonHeightNormal">60dp</dimen>
+    <dimen name="buttonHeightLarge">90dp</dimen>
+    <dimen name="buttonHeightSmall">45dp</dimen>
+    <dimen name="textSizeToSmall">14dp</dimen>
+    <dimen name="layoutsize">300dp</dimen>
+    <dimen name="layoutsizeLarge">400dp</dimen>
+    <dimen name="seekbarsize">10dp</dimen>
+    <dimen name="seekbarsize_small">5dp</dimen>
+    <dimen name="timerSize">120dp</dimen>
+    <dimen name="textSizeAverage">22dp</dimen>
+    <dimen name="layoutsizeExtraLarge">500dp</dimen>
+    <dimen name="jc_start_button_w_h_normal">45dp</dimen>
+    <dimen name="jc_start_button_w_h_fullscreen">62dp</dimen>
+
+</resources>

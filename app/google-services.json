@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "74228924824",
+    "firebase_url": "https://videodownloader-mp4.firebaseio.com",
+    "project_id": "videodownloader-mp4",
+    "storage_bucket": "videodownloader-mp4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74228924824:android:77d37e7332d9cd34",
+        "android_client_info": {
+          "package_name": "com.videodownloader.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74228924824-g944l3n021ophu1l64epcli81mls9buo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB071tjUNRwgcCG9qntdXI7RF2JdNQYoD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
